@@ -181,3 +181,13 @@ a {
     padding: 4px 24px;
     margin: 18px;
 }
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 24px;
+    background-color: #1F2937;
+    color: #fff;
+}
